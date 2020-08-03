@@ -10,6 +10,6 @@ export class Satellite {
         this.orbitType=orbitType;
         this.type=type;
         this.operational=operational;
-        this.launchDate=launchDat;  
+        this.launchDate=launchDate;  
     }
 }
